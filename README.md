@@ -1,1 +1,1 @@
-# Coding-Quiz
+# Star Wars Quiz
